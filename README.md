@@ -25,7 +25,3 @@ Este projeto foi desenvolvido como parte de um curso da Alura para criar uma apl
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrar algum problema no projeto ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
